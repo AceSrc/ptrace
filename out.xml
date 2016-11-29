@@ -1,0 +1,7 @@
+<points>
+    <point x="2" y="3">HelloWorld</point>
+</points>
+
+<lines>
+    <line sx="2" sy="3" ex="4" ey="5">Hello World!</line>
+</lines>
